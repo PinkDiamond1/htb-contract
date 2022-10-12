@@ -18,7 +18,7 @@
     "prepublishOnly": "yarn run compile && node scripts/prepublish.js"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^3.1.0",
+    "@openzeppelin/contracts": "^4.7.3",
     "@openzeppelin/test-helpers": "^0.5.6",
     "truffle": "^5.1.41",
     "truffle-flattener": "^1.4.4"
